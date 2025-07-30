@@ -88,7 +88,7 @@ This project is part of **Milestone 2** in the ALX Frontend ProDev program. It i
 ---
 
 ## 🗂️ Project Structure
-
+```
 alx-listing-app-00/
 │
 ├── components/
@@ -114,7 +114,7 @@ alx-listing-app-00/
 │ └── globals.css
 │
 └── tailwind.config.js
-
+```
 yaml
 Copy
 Edit
